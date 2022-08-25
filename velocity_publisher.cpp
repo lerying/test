@@ -1,7 +1,7 @@
 /**
  * 该例程将发布turtle1/cmd_vel话题，消息类型geometry_msgs::Twist
  */
-
+//试试修改推送
 #include <ros/ros.h>
 #include <geometry_msgs/Twist.h>
 int main(int argc, char **argv)
